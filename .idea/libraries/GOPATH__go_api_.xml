@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;go_api&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../hello" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../github.com/howeyc/fsnotify/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/beego/bee/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/lib/pq/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/jtolds/gls/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/astaxie/beego/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/smartystreets/assertions/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/beego/bee/testdata" />
+      <root url="file://$PROJECT_DIR$/../github.com/astaxie/beego/utils/testdata" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../github.com/smartystreets/goconvey/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/go-sql-driver/mysql/.git" />
+    </excluded>
+  </library>
+</component>
